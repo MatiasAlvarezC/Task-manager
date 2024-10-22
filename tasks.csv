@@ -1,0 +1,9 @@
+task_name,status,priority,description,creation_date,due_date,completion_date,alarm_date,alarm_hour
+Revisar correo electronico,Nueva,Media,,21/10/2024,22/10/2024,,,
+Hacer seguimiento al proyecto de marketing,En progreso,Alta,,21/10/2024,14/11/2024,,,
+Organizar documentos,En progreso,Media,Sprint 3,21/10/2024,25/10/2024,,,
+Revisar presupuesto del proyecto,En progreso,Alta,,21/10/2024,24/10/2024,,,
+Realizar mantenimiento de la pagina web,Nueva,Baja,,21/10/2024,31/10/2024,,,
+Programar reunion con el cliente,Finalizada,Media,Jose Caceres,21/10/2024,23/10/2024,24/10/2024,,
+Actualizar el software de la computadora,Finalizada,Baja,,21/10/2024,,22/10/2024,,
+Hacer Retrospectiva Sprint 5,En progreso,Alta,,21/10/2024,26/10/2024,,,
